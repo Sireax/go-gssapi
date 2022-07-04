@@ -54,7 +54,7 @@ import (
 	"encoding/hex"
 	"errors"
 	"fmt"
-	"github.com/golang-auth/go-gssapi/v2"
+	"github.com/Sireax/go-gssapi/v2"
 	"math"
 	"math/big"
 	"os"
